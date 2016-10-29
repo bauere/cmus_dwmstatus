@@ -1,4 +1,4 @@
-NAME = dwmstatus
+NAME = cmus_dwmstatus
 VERSION = 1.2
 
 # Customize below to fit your system

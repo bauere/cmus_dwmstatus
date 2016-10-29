@@ -5,7 +5,7 @@ include config.mk
 SRC = ${NAME}.c
 OBJ = ${SRC:.c=.o}
 
-all: options ${NAME}
+all: ${NAME}
 
 options:
 	@echo ${NAME} build options:
